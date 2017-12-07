@@ -1,0 +1,10 @@
+{
+  "name": "i18next-test",
+  "engines": {
+    "node": "7.9.0"
+  },
+  "dependencies": {
+    "i18next": "^10.0.7",
+    "i18next-node-fs-backend": "^1.0.0"
+  }
+}
